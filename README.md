@@ -2,7 +2,7 @@
 
 This repository showcases my projects and work.
 
-## 📁 Projects
+## Projects
 
 ### Project 1: Raytracer in Python
 **Description**: This project takes scene input files of a certain format and renders a picture in .ppm format  
@@ -16,11 +16,11 @@ This repository showcases my projects and work.
 
 ---
 
-## 🎯 About Me
+## About Me
 
-[Add a brief bio about yourself, your skills, and what you're passionate about]
+I am a Computer Science and Graphics student at UVic.
 
-## 🔗 Links
+## Links
 
 - **GitHub**: [github.com/maki-akinkunmi](https://github.com/maki-akinkunmi)
 - **LinkedIn**: https://www.linkedin.com/in/makinwa-akinkunmi-a60892153/
