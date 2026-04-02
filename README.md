@@ -7,12 +7,12 @@ This repository showcases my projects and work.
 ### Project 1: Raytracer in Python
 **Description**: This project takes scene input files of a certain format and renders a picture in .ppm format  
 **Tech Stack**: Python (Numpy)  
-**View project**: [Raytracer](./project-1/)
+**View project**: [Raytracer](./Backwards-Raytracer/)
 
 ### Project 2: Unix-Based Command Line Interface
 **Description**: Command line shell utilizing system calls for process management and file I/O  
 **Tech Stack**: C, Unix, Pthreads, POSIX  
-**View project**: [UNIX CLI](./project-2/)
+**View project**: [UNIX CLI](./Unix-CLI/)
 
 ---
 
