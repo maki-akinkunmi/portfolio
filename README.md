@@ -12,7 +12,7 @@ This repository showcases my projects and work.
 ### Project 2: Unix-Based Command Line Interface
 **Description**: Command line shell utilizing system calls for process management and file I/O  
 **Tech Stack**: C, Unix, Pthreads, POSIX  
-**View project**: [UNIX CLI](https://github.com/maki-akinkunmi/portfolio/tree/main/Unix%20CLI)
+**View project**: [UNIX CLI](https://github.com/maki-akinkunmi/portfolio/tree/main/UNIX%20CLI)
 
 ---
 
