@@ -12,12 +12,7 @@ This repository showcases my projects and work.
 ### Project 2: Unix-Based Command Line Interface
 **Description**: Command line shell utilizing system calls for process management and file I/O  
 **Tech Stack**: C, Unix, Pthreads, POSIX  
-**View project**: [UNIX](./project-2/)
-
-### Project 3: [Project Name]
-**Description**: Brief description of what this project does.
-**Tech Stack**: Languages, frameworks, libraries used.
-**Link**: [View Project](./project-3/)
+**View project**: [UNIX CLI](./project-2/)
 
 ---
 
@@ -28,7 +23,7 @@ This repository showcases my projects and work.
 ## 🔗 Links
 
 - **GitHub**: [github.com/maki-akinkunmi](https://github.com/maki-akinkunmi)
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: https://www.linkedin.com/in/makinwa-akinkunmi-a60892153/
 - **Email**: maki.akinkunmi@gmail.com
 
 ---
