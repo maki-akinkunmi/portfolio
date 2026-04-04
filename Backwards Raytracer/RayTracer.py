@@ -1,6 +1,6 @@
 import sys
 import numpy as np
-import parser2 as p
+import parser as p
 from ppm import write_ppm
 
 MAX_DEPTH = 3 
